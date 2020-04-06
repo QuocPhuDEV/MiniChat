@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "453920889664",
+    "firebase_url": "https://minichat-29d30.firebaseio.com",
+    "project_id": "minichat-29d30",
+    "storage_bucket": "minichat-29d30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453920889664:android:0cbefbeef1ac731455f8a5",
+        "android_client_info": {
+          "package_name": "phuhq.it.minichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453920889664-kd24r36eehmaofu31mg8ik5623vqhicc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "phuhq.it.minichat",
+            "certificate_hash": "78498afa26a1c59b90fcfe00372b36a5e524e9bb"
+          }
+        },
+        {
+          "client_id": "453920889664-kejvhtdtnbna77juks1q36e7lom734tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVF549hvXClWzG_tQ1sZ3niofpvZLhZhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453920889664-kejvhtdtnbna77juks1q36e7lom734tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
